@@ -1,0 +1,11 @@
+pydoc
+selenium
+webdriver
+ipywidgets
+IPython
+datetime
+request
+bs4
+pandas
+time
+os
