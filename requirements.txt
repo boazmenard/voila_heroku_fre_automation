@@ -1,5 +1,5 @@
 selenium
-webdriver
+webdriver-manager
 ipywidgets
 IPython
 datetime
