@@ -1,1 +1,1 @@
-worker: voila --port=$PORT --no-browser --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['.*\.(xlsx)']" notebooks/automation-notebook-version.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['.*\.(xlsx)']" notebooks/automation-notebook-version.ipynb
