@@ -3,7 +3,7 @@ webdriver-manager
 ipywidgets
 IPython
 datetime
-request
+requests
 bs4
 pandas
 time
