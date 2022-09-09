@@ -6,5 +6,3 @@ datetime
 requests
 bs4
 pandas
-time
-os
